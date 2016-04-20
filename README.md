@@ -1,7 +1,7 @@
 # OSC-logger
 Open Sound Control logger (made with Processing)
 
-= SETTINGS
+## SETTINGS
 Modify the "settings.json" file to set the following :
 * "showSourceIP": show the ip address of the message's sender
 * "frameRate": set the framerate
@@ -9,7 +9,7 @@ Modify the "settings.json" file to set the following :
 * "messagesByPattern": the number of messages listed by pattern
 * "messagesByTime": the number of messages listed by time
 
-= TODO
+## TODO
 * Add a "freeze" button
 * Add a "rec" button to export recorded messages
 
